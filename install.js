@@ -30,7 +30,7 @@ module.exports = {
           "uv pip install numpy==1.26.4 pydantic==2.12.5",
           "uv pip install fastapi==0.117.1 uvicorn[standard] huggingface_hub==0.25.1",
           "uv pip install onnxruntime-gpu==1.16.3 pycuda==2024.1.2",
-          "uv pip install -r requirements.txt --prerelease=allow"
+          "uv pip install -r ../requirements.txt --prerelease=allow"
         ]
       }
     },
