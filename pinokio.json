@@ -1,0 +1,19 @@
+{
+  "title": "Personal Live Stream",
+  "description": "",
+  "icon": "icon.png",
+  "links": [
+    {
+      "title": "github",
+      "value": "https://github.com/GVCLab"
+    },
+    {
+      "title": "website",
+      "value": "https://github.com/GVCLab/PersonaLive?tab=readme-ov-file"
+    }
+  ],
+  "posts": [],
+  "plugin": {
+    "menu": []
+  }
+}
