@@ -31,6 +31,8 @@ yapf
 markdown2==2.5.4
 omegaconf==2.3.0
 einops==0.8.1
+gradio==5.14.0
+huggingface_hub==0.25.2
 
 # TensorRT requirements (from requirements_trt.txt)
 colored==2.3.1
