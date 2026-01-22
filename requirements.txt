@@ -1,0 +1,47 @@
+# Combined requirements for PersonaLiveStream
+
+# Base requirements (from requirements_base.txt)
+av
+beautifulsoup4
+dlib
+face_alignment
+ffmpy
+gdown
+gradio
+imageio
+imageio-ffmpeg
+importlib-metadata
+moviepy
+opencv_contrib_python==4.11.0.86
+opencv_python_headless==4.10.0.84
+pillow==11.3.0
+psutil
+python-multipart==0.0.20
+pyyaml
+requests
+scikit-image==0.22.0
+scipy
+tensorboard
+tqdm==4.67.1
+transformers==4.36.2
+diffusers==0.27.0
+ftfy
+regex
+yapf
+markdown2==2.5.4
+omegaconf==2.3.0
+einops==0.8.1
+
+# TensorRT requirements (from requirements_trt.txt)
+colored==2.3.1
+onnx==1.17.0
+onnxsim
+onnx_simplifier==0.4.36
+
+# Additional base requirements
+accelerate==1.12.0
+decord==0.6.0
+mediapipe==0.10.11
+safetensors==0.7.0
+starlette==0.48.0
+peft==0.10.0
